@@ -1,4 +1,4 @@
-# convr
+# Convr
 
 Developing a chat application with Node, React, MySQL and WebSockets.
 
